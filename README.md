@@ -1,8 +1,11 @@
 # Minhas Configurações
 
-Configurações do  meu ambiente de trabalho Anaconda e JupyterLab
+Configurações do  meu ambiente de trabalho Anaconda e JupyterLab.
+
 Inspirado um pouco no [awesome-python](https://github.com/vinta/awesome-python).
+
 **Baixando o Anaconda**
+
 [Download Anaconda Distribution | Anaconda](https://www.anaconda.com/download)
 ## Configurações do JupyterLab
 ### Tema:
