@@ -7,7 +7,12 @@ Inspirado um pouco no [awesome-python](https://github.com/vinta/awesome-python).
 **Baixando o Anaconda**
 
 [Download Anaconda Distribution | Anaconda](https://www.anaconda.com/download)
+
 ## Configurações do JupyterLab
+**Jupyterlab Portuguese (Brazil) Language Pack**
+```
+conda install -c conda-forge jupyterlab-language-pack-pt-BR
+```
 ### Tema:
 - [JupyterLab • Dracula Theme](https://draculatheme.com/jupyterlab) - Dracula thema
 ### Essenciais
