@@ -9,10 +9,8 @@ Inspirado um pouco no [awesome-python](https://github.com/vinta/awesome-python).
 [Download Anaconda Distribution | Anaconda](https://www.anaconda.com/download)
 
 ## Configurações do JupyterLab
-**Jupyterlab Portuguese (Brazil) Language Pack**
-```
-pip install jupyterlab-language-pack-pt-BR
-```
+### Tradução:
+- [Jupyterlab Portuguese](https://pypi.org/project/jupyterlab-language-pack-pt-BR/) - JupyterLab Portuguese (Brazil) Language Pack
 ### Tema:
 - [JupyterLab • Dracula Theme](https://draculatheme.com/jupyterlab) - Dracula thema
 ### Essenciais
@@ -27,7 +25,13 @@ pip install jupyterlab-language-pack-pt-BR
 ### Em Testes
 - [ML Workspace](https://github.com/ml-tooling/ml-workspace) - IDE web tudo-em-um para machine learning e ciência de dados. Combina Jupyterlab, VS Code, Tensorflow e muitas outras ferramentas/bibliotecas em uma imagem Docker.
 ## Instalação de pacotes
+**Jupyterlab Portuguese (Brazil) Language Pack**
+```
+pip install jupyterlab-language-pack-pt-BR
+```
+** **
+```
 
-
+```
 
 Agradecimentos à comunidade que cria todos esses plugins, recursos de aprendizado e designs. 
