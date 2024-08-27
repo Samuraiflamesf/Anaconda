@@ -9,9 +9,8 @@ Inspirado um pouco no [awesome-python](https://github.com/vinta/awesome-python).
 [Download Anaconda Distribution | Anaconda](https://www.anaconda.com/download)
 
 ## Configurações do JupyterLab
-### Tradução:
+### Tradução e Tema:
 - [Jupyterlab Portuguese](https://pypi.org/project/jupyterlab-language-pack-pt-BR/) - JupyterLab Portuguese (Brazil) Language Pack
-### Tema:
 - [JupyterLab • Dracula Theme](https://draculatheme.com/jupyterlab) - Dracula thema
 ### Essenciais
 - [Verificador ortográfico](https://github.com/jupyterlab-contrib/spellchecker) - Corretor ortográfico para células de redução
