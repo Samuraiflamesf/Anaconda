@@ -11,7 +11,7 @@ Inspirado um pouco no [awesome-python](https://github.com/vinta/awesome-python).
 ## Configurações do JupyterLab
 **Jupyterlab Portuguese (Brazil) Language Pack**
 ```
-conda install -c conda-forge jupyterlab-language-pack-pt-BR
+pip install jupyterlab-language-pack-pt-BR
 ```
 ### Tema:
 - [JupyterLab • Dracula Theme](https://draculatheme.com/jupyterlab) - Dracula thema
