@@ -29,6 +29,10 @@ Inspirado um pouco no [awesome-python](https://github.com/vinta/awesome-python).
 ```
 pip install jupyterlab-language-pack-pt-BR
 ```
+**Dracula Theme**
+```
+pip install JLDracula
+```
 ** **
 ```
 
